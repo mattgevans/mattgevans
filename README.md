@@ -6,8 +6,6 @@
 
 Full-stack engineer: **TypeScript**, **JavaScript**, **Python**, **PHP**, and **C#** across web apps, APIs, and internal tools. On the frontend I work mostly in **React**; on the backend **FastAPI**, **Django** / **Django REST Framework**, and **Streamlit** when a full-stack Python UI fits. I’ve built and maintained **ETL** jobs with **Python** and **Airflow**, wired apps to **Snowflake** and **Databricks**, and shipped infra with **AWS** (**ECS**, **Lambda**, **API Gateway**, and friends), **Docker**, **Terraform**, and **CloudFormation**. Earlier work includes **Unity** and game-side **C#**, plus **ESP32** / **InfluxDB** / **Grafana** for embedded and monitoring.
 
-Outside of day-job code I like **Python** on small hardware projects and **ZMK** for split keyboards.
-
 ### Projects
 
 [**Tessra Labs**](https://www.tessralabs.com) · [**Solace Gateway**](https://www.solacegateway.com/)
@@ -15,7 +13,6 @@ Outside of day-job code I like **Python** on small hardware projects and **ZMK**
 | | |
 | :--- | :--- |
 | [**totem-battery**](https://github.com/mattgevans/totem-battery) | Python — power / battery tooling |
-| [**zmk-config-totem**](https://github.com/mattgevans/zmk-config-totem) | ZMK config for a TOTEM split keyboard |
 
 ### Languages & tools
 
