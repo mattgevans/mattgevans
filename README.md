@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Matt — full-stack TypeScript, React, Python, FastAPI, Django REST Framework, AWS" width="100%" />
+  <img src="https://raw.githubusercontent.com/mattgevans/mattgevans/main/assets/header.svg" alt="Hi, I'm Matt — full-stack TypeScript, React, Python, FastAPI, Django REST Framework, AWS" width="100%" />
 </div>
 
 <br/>
