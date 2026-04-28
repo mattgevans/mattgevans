@@ -1,22 +1,33 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Matt — Python, firmware, split keyboards" width="100%" />
+  <img src="assets/header.svg" alt="Hi, I'm Matt — full-stack TypeScript, React, Python, FastAPI, Django REST Framework, AWS" width="100%" />
 </div>
 
 <br/>
 
-I'm a software engineer tinkering at the edge of **Python** and **embedded** tooling. Lately that's meant batteries, BLE, and a very compact split keyboard.
+Full-stack engineer: **TypeScript**, **JavaScript**, **Python**, **PHP**, and **C#** across web apps, APIs, and internal tools. On the frontend I work mostly in **React**; on the backend **FastAPI**, **Django** / **Django REST Framework**, and **Streamlit** when a full-stack Python UI fits. I’ve built and maintained **ETL** jobs with **Python** and **Airflow**, wired apps to **Snowflake** and **Databricks**, and shipped infra with **AWS** (**ECS**, **Lambda**, **API Gateway**, and friends), **Docker**, **Terraform**, and **CloudFormation**. Earlier work includes **Unity** and game-side **C#**, plus **ESP32** / **InfluxDB** / **Grafana** for embedded and monitoring.
+
+Outside of day-job code I like **Python** on small hardware projects and **ZMK** for split keyboards.
 
 ### Projects
 
 | | |
 | :--- | :--- |
-| [**totem-battery**](https://github.com/mattgevans/totem-battery) | Python — power / battery-side experiments |
-| [**zmk-config-totem**](https://github.com/mattgevans/zmk-config-totem) | ZMK layout for the TOTEM split keyboard |
+| [**totem-battery**](https://github.com/mattgevans/totem-battery) | Python — power / battery tooling |
+| [**zmk-config-totem**](https://github.com/mattgevans/zmk-config-totem) | ZMK config for a TOTEM split keyboard |
 
-### Stack
+### Languages & tools
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ZMK](https://img.shields.io/badge/ZMK-keyboard-30363D?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### GitHub
 
