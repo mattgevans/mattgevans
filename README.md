@@ -10,6 +10,8 @@ Outside of day-job code I like **Python** on small hardware projects and **ZMK**
 
 ### Projects
 
+[**Tessra Labs**](https://www.tessralabs.com) · [**Solace Gateway**](https://www.solacegateway.com/)
+
 | | |
 | :--- | :--- |
 | [**totem-battery**](https://github.com/mattgevans/totem-battery) | Python — power / battery tooling |
